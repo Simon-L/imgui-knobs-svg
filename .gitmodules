@@ -1,0 +1,9 @@
+[submodule "dpf-widgets"]
+	path = example/dpf-widgets
+	url = https://github.com/DISTRHO/DPF-Widgets.git
+[submodule "dpf"]
+	path = example/dpf
+	url = https://github.com/DISTRHO/DPF.git
+[submodule "lunasvg"]
+	path = example/lunasvg
+	url = https://github.com/sammycage/lunasvg
