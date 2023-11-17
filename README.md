@@ -4,6 +4,10 @@ Use an SVG background and foreground element on top of [imgui-knobs](https://git
 Add `imgui-knobs-svg.h` to your project as well as imgui-knobs and lunasvg, the latter needs to be built as a static library.  
 See `example/` folder as well as [minisilver](https://github.com/Simon-L/minisilver) for a real life usage.
 
+:warning: TODO: Math or SVG problem, knob from example not correctly centered... blabla
+
+![example knob](example.png)
+
 Depends on imgui, imgui-knobs and lunasvg.
 
 Released under the terms of the MIT license.
